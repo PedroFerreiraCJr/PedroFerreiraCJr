@@ -1,7 +1,7 @@
 ## Olá, eu sou Pedro Junior, Desenvolvedor de Software!
 
 <div style="display: inline_block">
-  <p>Estas são algumas das tecnologias que tenho conhecimentos e, cada vez mais, tenho vontade de obter experiência.</p>
+  <p>Estas são as principais tecnologias que tenho conhecimentos e, cada vez mais, tenho vontade de obter experiência.</p>
   <br>
   <img align="center" alt="pedroferreiracjr-java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
   <img align="center" alt="pedroferreiracjr-cplusplus" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
