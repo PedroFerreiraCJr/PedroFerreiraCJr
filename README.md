@@ -30,7 +30,6 @@
   <img align="center" alt="pedroferreiracjr-intellij" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
   <img align="center" alt="pedroferreiracjr-chrome" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" />
   <img align="center" alt="pedroferreiracjr-cmake" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" />
-  <img align="center" alt="pedroferreiracjr-ubuntu" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
   <img align="center" alt="pedroferreiracjr-gitlab" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg" />
   <img align="center" alt="pedroferreiracjr-tomcat" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" />
   <img align="center" alt="pedroferreiracjr-jenkins" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" />
